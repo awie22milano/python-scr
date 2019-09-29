@@ -1,0 +1,3 @@
+cd python-scr
+cd python2
+python -m SimpleHTTPServer 8000
